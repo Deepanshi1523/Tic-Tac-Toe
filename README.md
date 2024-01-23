@@ -9,9 +9,11 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 <h2>Technologies Used:</h2>
 <p><b>HTML:</b> Structure and layout of the game board.</p>
 <p><b>CSS:</b> Styling for an attractive and user-friendly interface.</p>
+
 <p><b>JavaScript:</b> Game logic and interactivity.</p>
 <h2>Preview:</h2>
-[Include a screenshot or GIF of your game in action]
+<img width="325" alt="Screenshot 2024-01-23 222253" src="https://github.com/Deepanshi1523/Tic-Tac-Toe/assets/104934054/9637bb7f-fa7a-4960-a246-1143c2f8bf40"> &emsp; &emsp; &emsp;
+<img width="480" alt="Screenshot 2024-01-23 220600" src="https://github.com/Deepanshi1523/Tic-Tac-Toe/assets/104934054/1c8bb9e6-a534-4987-a43e-0f9ca0701bc7">
 
 <h2>Contributing:</h2>
 <p>Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.</p>
