@@ -28,11 +28,13 @@ boxes.forEach((box)=>{
         console.log("clicked");
         if(turnO){
             box.innerText="O";
+            box.style.color="#FFBF00";
             turnO=false;
         }
         else{
             box.innerText="X";
             turnO=true;
+            box.style.color="#b0413e";
         }
         box.disabled=true;
         checkWinner();
